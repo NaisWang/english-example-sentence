@@ -1,0 +1,37 @@
+{
+  "1": {
+    "1": [
+      {
+        "sentence": "The students agree they have too much homework.",
+        "keyword": "agree",
+        "chinese": "学生们同意他们有太多的作业"
+      },
+      {
+        "sentence": "A person should not drive a car after he or she has been drinking alcohol.",
+        "keyword": "alcohol",
+        "chinese": "一个人喝酒后不应该开车"
+      }
+    ],
+    "2": [
+      {
+        "sentence": "They arrived at school at 7 a.m",
+        "keyword": "arrive",
+        "chinese": "他们在早上 7 点到达学校"
+      }
+    ]
+  },
+  "2": {
+    "1": [
+      {
+        "sentence": "The students agree they have too much homework.",
+        "keyword": "agree",
+        "chinese": "学生们同意他们有太多的作业"
+      },
+      {
+        "sentence": "A person should not drive a car after he or she has been drinking alcohol.",
+        "keyword": "alcohol",
+        "chinese": "一个人喝酒后不应该开车"
+      }
+    ]
+  }
+}
