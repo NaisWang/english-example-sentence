@@ -10,27 +10,504 @@
         "sentence": "A person should not drive a car after he or she has been drinking alcohol.",
         "keyword": "alcohol",
         "chinese": "一个人喝酒后不应该开车"
+      },
+      {
+        "sentence": "They arrived at school at 7 a.m.",
+        "keyword": "arrive",
+        "chinese": "他们早上7点.m到达学校。"
+      },
+      {
+        "sentence": "Is your birthday in August?",
+        "keyword": "August",
+        "chinese": "你的生日是八月吗？"
+      },
+      {
+        "sentence": "There is a small boat on the lake.",
+        "keyword": "boat",
+        "chinese": "湖上有一艘小船"
+      },
+      {
+        "sentence": "I ate eggs for breakfast.",
+        "keyword": "breakfast",
+        "chinese": "我早餐吃了鸡蛋。"
+      },
+      {
+        "sentence": "I brought my camera on my vacation.",
+        "keyword": "camera",
+        "chinese": "我在假期带了相机。"
+      },
+      {
+        "sentence": "The capital of the United States in Washington, D.C.",
+        "keyword": "capital",
+        "chinese": "美国首都华盛顿特区。"
+      },
+      {
+        "sentence": "Did you catch the ball during the baseball game?",
+        "keyword": "catch",
+        "chinese": "你在棒球比赛中接球了吗?"
+      },
+      {
+        "sentence": "People feed ducks at the lake.",
+        "keyword": "lake",
+        "chinese": "人们在湖边喂鸭子。"
+      },
+      {
+        "sentence": "The woman enjoys riding her bicycle.",
+        "keyword": "enjoy",
+        "chinese": "女人喜欢骑她的自行车。"
+      },
+      {
+        "sentence": "I will invite my friends to my birthday party.",
+        "keyword": "invite",
+        "chinese": "我会邀请我的朋友参加我的生日聚会。"
+      },
+      {
+        "sentence": "I love my family very much.",
+        "keyword": "love",
+        "chinese": "我很爱我家人。"
+      },
+      {
+        "sentence": "January is the first month of the year.",
+        "keyword": "month",
+        "chinese": "一月是一年中的第一个月。"
+      },
+      {
+        "sentence": "They will travel to Argentina this summer.",
+        "keyword": "travel",
+        "chinese": "今年夏天他们将前往阿根廷。"
+      },
+      {
+        "sentence": "My typical breakfast is toast and eggs.",
+        "keyword": "typical",
+        "chinese": "我的典型早餐是烤面包和鸡蛋。"
+      },
+      {
+        "sentence": "She wants to visit her grandmother.",
+        "keyword": "visit",
+        "chinese": "她想去看望她的祖母。"
+      },
+      {
+        "sentence": "Today's weather is rainy and cloudy.",
+        "keyword": "weather",
+        "chinese": "今天的天气阴雨绵绵。"
+      },
+      {
+        "sentence": "What are you doing next week?",
+        "keyword": "week",
+        "chinese": "下周你在做什么？"
+      },
+      {
+        "sentence": "The store carried both red and white wine.",
+        "keyword": "wine",
+        "chinese": "店里有红葡萄酒和白葡萄酒。"
       }
     ],
     "2": [
       {
-        "sentence": "They arrived at school at 7 a.m",
-        "keyword": "arrive",
-        "chinese": "他们在早上 7 点到达学校"
-      }
-    ]
-  },
-  "2": {
-    "1": [
-      {
-        "sentence": "The students agree they have too much homework.",
-        "keyword": "agree",
-        "chinese": "学生们同意他们有太多的作业"
+        "sentence": "Riding in the rough water was adventure.",
+        "keyword": "adventure",
+        "chinese": "在汹涌的水中骑行是冒险。"
       },
       {
-        "sentence": "A person should not drive a car after he or she has been drinking alcohol.",
-        "keyword": "alcohol",
-        "chinese": "一个人喝酒后不应该开车"
+        "sentence": "The boy approached his school.",
+        "keyword": "adventure",
+        "chinese": "男孩走近他的学校。"
+      },
+      {
+        "sentence": "The baby carefully climbed down the stairs.",
+        "keyword": "carefully",
+        "chinese": "婴儿小心翼翼地爬下楼梯。"
+      },
+      {
+        "sentence": "The scientist mixed the chemicals.",
+        "keyword": "chemical",
+        "chinese": "科学家混合了这些化学物质。"
+      },
+      {
+        "sentence": "She created an igloo from blocks of snow.",
+        "keyword": "create",
+        "chinese": "她用雪块创造了一个冰屋。"
+      },
+      {
+        "sentence": "They felt a strange, evil presence as they got closer to the house.",
+        "keyword": "evil",
+        "chinese": "当他们靠近房子时，他们感到一种奇怪的、邪恶的存在。"
+      },
+      {
+        "sentence": "The student did an experiment in science class.",
+        "keyword": "experiment",
+        "chinese": "学生在科学课上做了一个实验。"
+      },
+      {
+        "sentence": "I killed the fly.",
+        "keyword": "killed",
+        "chinese": "我杀了苍蝇。"
+      },
+      {
+        "sentence": "My mother works in laboratory",
+        "keyword": "laboratory",
+        "chinese": "我妈妈在实验室工作"
+      },
+      {
+        "sentence": "The sound of her laugh filled the room.",
+        "keyword": "laugh",
+        "chinese": "她的笑声充满了房间。"
+      },
+      {
+        "sentence": "The man's voice was so loud that we all cloud hear him.",
+        "keyword": "loud",
+        "chinese": "那人的声音太大了，我们都听得云里雾里。"
+      },
+      {
+        "sentence": "The boy became nervous when he heard the news.",
+        "keyword": "nervous",
+        "chinese": "男孩听到这个消息后变得紧张起来。"
+      },
+      {
+        "sentence": "The crying baby made a loud noise.",
+        "keyword": "noise",
+        "chinese": "哭闹的婴儿发出很大的声音。"
+      },
+      {
+        "sentence": "His afternoon work project was to paint the room green.",
+        "keyword": "project",
+        "chinese": "他下午的工作是把房间漆成绿色。"
+      },
+      {
+        "sentence": "My uncle was scared by what he saw in the room.",
+        "keyword": "scare",
+        "chinese": "我叔叔被他在房间里看到的东西吓到了。"
+      },
+      {
+        "sentence": "The two boys were sharing a secret.",
+        "keyword": "secret",
+        "chinese": "两个男孩正在分享一个秘密。"
+      },
+      {
+        "sentence": "My boss shouted at me because I was late for work.",
+        "keyword": "shout",
+        "chinese": "我的老板因为我上班迟到而对我大喊大叫。"
+      },
+      {
+        "sentence": "The two friends smelled the flower.",
+        "keyword": "smell",
+        "chinese": "两个朋友闻到了花香。"
+      },
+      {
+        "sentence": "The way he treated his classmate was terrible.",
+        "keyword": "terrible",
+        "chinese": "他对待同学的方式很糟糕。"
+      },
+      {
+        "sentence": "Business was worse this month than last month.",
+        "keyword": "worse",
+        "chinese": "这个月的生意比上个月差。"
+      }
+    ],
+    "3": [
+      {
+        "sentence": "The alien came in peace.",
+        "keyword": "alien",
+        "chinese": "外星人平安地来了。"
+      },
+      {
+        "sentence": "There was a red apple among the green ones.",
+        "keyword": "among",
+        "chinese": "绿色的苹果中有一个红苹果。"
+      },
+      {
+        "sentence": "We used a chart to see how we had improved.",
+        "keyword": "among",
+        "chinese": "我们用一张图表来看看我们是如何改进的。"
+      },
+      {
+        "sentence": "The sky was filled with white clouds.",
+        "keyword": "cloud",
+        "chinese": "天空布满了白云。"
+      },
+      {
+        "sentence": "They described their tree as colorful, with gold ribbon and a start.",
+        "keyword": "describe",
+        "chinese": "他们形容他们的树是五颜六色的，有金丝带和一个开始。"
+      },
+      {
+        "sentence": "Going skiing last winter was the most fun I've ever had.",
+        "keyword": "ever",
+        "chinese": "去年冬天去滑雪是我经历过的最有趣的事情。"
+      },
+      {
+        "sentence": "Since he failed to get the job, he was sad.",
+        "keyword": "fail",
+        "chinese": "由于没能得到这份工作，他很伤心。"
+      },
+      {
+        "sentence": "I managed to get good grades on my report card.",
+        "keyword": "grade",
+        "chinese": "我设法在我的成绩单上取得了好成绩。"
+      },
+      {
+        "sentence": "He ate the carrot instead of the ice cream.",
+        "keyword": "instead",
+        "chinese": "他吃了胡萝卜而不是冰淇淋。"
+      },
+      {
+        "sentence": "The library at school is full of books.",
+        "keyword": "library",
+        "chinese": "学校的图书馆里堆满了书。"
+      },
+      {
+        "sentence": "I took this photograph with my cell phone.",
+        "keyword": "photograph",
+        "chinese": "我用手机拍了这张照片。"
+      },
+      {
+        "sentence": "Saturn is the planet with the ring around it.",
+        "keyword": "planet",
+        "chinese": "土星是有环的行星。"
+      },
+      {
+        "sentence": "Karen had trouble writing her report.",
+        "keyword": "report",
+        "chinese": "凯伦在写报告时遇到了麻烦。"
+      },
+      {
+        "sentence": "He had to read several books for class.",
+        "keyword": "several",
+        "chinese": "为了上课，他不得不读几本书。"
+      },
+      {
+        "sentence": "Even with your eyes closed you can feel the shape of it.",
+        "keyword": "shape",
+        "chinese": "即使闭上眼睛，你也能感觉到它的形状。"
+      },
+      {
+        "sentence": "All the students could easily solve the math problem.",
+        "keyword": "solve",
+        "chinese": "所有学生都可以轻松解决数学问题。"
+      },
+      {
+        "sentence": "I was surprised when my friends suddenly shouted.",
+        "keyword": "suddenly",
+        "chinese": "当我的朋友突然大喊时我很惊讶。"
+      },
+      {
+        "sentence": "I suppose I should go home now.",
+        "keyword": "suppose",
+        "chinese": "我想我现在应该回家了。"
+      },
+      {
+        "sentence": "Henry could not understand the message.",
+        "keyword": "understand",
+        "chinese": "亨利无法理解这个信息。"
+      },
+      {
+        "sentence": "Michael likes to view himself in the mirror.",
+        "keyword": "view",
+        "chinese": "迈克尔喜欢照镜子。"
+      }
+    ],
+    "4": [
+      {
+        "sentence": "It's appropriate to wear a suit when you go to the office.",
+        "keyword": "appropriate",
+        "chinese": "去办公室穿西装比较合适。"
+      },
+      {
+        "sentence": "Avoid the broken bottle on the floor.",
+        "keyword": "avoid",
+        "chinese": "避免地板上的破瓶子。"
+      },
+      {
+        "sentence": "She always behaves well when her father is around.",
+        "keyword": "behave",
+        "chinese": "当她父亲在身边时，她总是表现得很好。"
+      },
+      {
+        "sentence": "A nice warm bath makes me feel so calm.",
+        "keyword": "calm",
+        "chinese": "一个漂亮的温水浴让我感到很平静。"
+      },
+      {
+        "sentence": "I was filled with concern after reading the newspaper.",
+        "keyword": "concern",
+        "chinese": "读完报纸后，我充满了担忧。"
+      },
+      {
+        "sentence": "The baby looked very content sitting on the floor.",
+        "keyword": "content",
+        "chinese": "婴儿坐在地板上看起来很满足。"
+      },
+      {
+        "sentence": "I expect the bus to be here very soon.",
+        "keyword": "expect",
+        "chinese": "我预计公共汽车很快就会到。"
+      },
+      {
+        "sentence": "We meet frequently, either at the beginning or end of the week.",
+        "keyword": "frequently",
+        "chinese": "我们经常见面，无论是在一周的开始还是结束。"
+      },
+      {
+        "sentence": "Smoking is a bad habit that can kill you.",
+        "keyword": "habit",
+        "chinese": "吸烟是一个坏习惯，会害死你。"
+      },
+      {
+        "sentence": "My teacher instructs us in several subjects.",
+        "keyword": "instruct",
+        "chinese": "我的老师教我们几门课。"
+      },
+      {
+        "sentence": "the men spoke about issues that were important to the people.",
+        "keyword": "issues",
+        "chinese": "这些人谈到了对人民很重要的问题。"
+      },
+      {
+        "sentence": "He spent all his money. There is none left",
+        "keyword": "none",
+        "chinese": "他花光了所有的钱。没有了"
+      },
+      {
+        "sentence": "I had to be patient and wait until 5 o'clock to leave.",
+        "keyword": "patient",
+        "chinese": "我不得不耐心等到五点钟离开。"
+      },
+      {
+        "sentence": "She has a positive future of her after finishing college.",
+        "keyword": "positive",
+        "chinese": "大学毕业后，她的前途一片光明。"
+      },
+      {
+        "sentence": "To punish me, my teacher had me stand in the corner.",
+        "keyword": "punish",
+        "chinese": "为了惩罚我，我的老师让我站在角落里。"
+      },
+      {
+        "sentence": "My lawyer will represent me in court.",
+        "keyword": "represent",
+        "chinese": "我的律师将在法庭上代表我。"
+      },
+      {
+        "sentence": "When people shake hands, it usually means the agree.",
+        "keyword": "shake",
+        "chinese": "当人们握手时，通常意味着同意。"
+      },
+      {
+        "sentence": "I like to spread butter on my toast.",
+        "keyword": "spread",
+        "chinese": "我喜欢在吐司上涂黄油。"
+      },
+      {
+        "sentence": "My dog and I strolled through the park today.",
+        "keyword": "stroll",
+        "chinese": "今天我和我的狗在公园里散步。"
+      },
+      {
+        "sentence": "There are only a few houses in my village.",
+        "keyword": "village",
+        "chinese": "我村里只有几间房子。"
+      }
+    ],
+    "5": [
+      {
+        "sentence": "It is important to be active and not sit around all the time.",
+        "keyword": "active",
+        "chinese": "重要的是要保持活跃，不要一直坐着。"
+      },
+      {
+        "sentence": "My mom and dad are adults.",
+        "keyword": "adult",
+        "chinese": "我的爸爸妈妈都是成年人。"
+      },
+      {
+        "sentence": "She died at the age of 80.",
+        "keyword": "age",
+        "chinese": "她在 80 岁时去世。"
+      },
+      {
+        "sentence": "She is unhappy because she had a bad day.",
+        "keyword": "bad",
+        "chinese": "她很不开心，因为她度过了糟糕的一天。"
+      },
+      {
+        "sentence": "A good balance between work and fun helps keep you healthy.",
+        "keyword": "balance",
+        "chinese": "工作和娱乐之间的良好平衡有助于保持健康。"
+      },
+      {
+        "sentence": "He rides his bike to school every day.",
+        "keyword": "bike",
+        "chinese": "他每天骑自行车上学。"
+      },
+      {
+        "sentence": "I have to choose between taking art classes and sports lessons.",
+        "keyword": "choose",
+        "chinese": "我必须在上艺术课和体育课之间做出选择。"
+      },
+      {
+        "sentence": "You should go to the doctor when you are sick.",
+        "keyword": "doctor",
+        "chinese": "生病时应该去看医生。"
+      },
+      {
+        "sentence": "Did you sleep during the movie?",
+        "keyword": "during",
+        "chinese": "看电影的时候你睡了吗？"
+      },
+      {
+        "sentence": "Football is a popular sport in the United States.",
+        "keyword": "football",
+        "chinese": "足球在美国是一项受欢迎的运动。"
+      },
+      {
+        "sentence": "We had a fun time at the birthday party.",
+        "keyword": "fun",
+        "chinese": "我们在生日聚会上玩得很开心。"
+      },
+      {
+        "sentence": "Let's play a board game tonight.",
+        "keyword": "game",
+        "chinese": "今晚我们来玩棋盘游戏吧。"
+      },
+      {
+        "sentence": "My heart beats fast when I am nervous.",
+        "keyword": "heart",
+        "chinese": "当我紧张时，我的心跳加速。"
+      },
+      {
+        "sentence": "Golf is a sport with clubs and a small white ball.",
+        "keyword": "heart",
+        "chinese": "高尔夫是一项有球杆和一个小白球的运动。"
+      },
+      {
+        "sentence": "I will increase my score if I study for the test.",
+        "keyword": "increase",
+        "chinese": "如果我为考试而学习，我会提高我的分数。"
+      },
+      {
+        "sentence": "My grandfather had a long life.",
+        "keyword": "life",
+        "chinese": "我祖父的寿命很长。"
+      },
+      {
+        "sentence": "A marathon is 42.2 kilometers.",
+        "keyword": "kilometer",
+        "chinese": "马拉松为42.2公里。"
+      },
+      {
+        "sentence": "He often goes to bed early during the week.",
+        "keyword": "often",
+        "chinese": "他经常在一周内早早睡觉。"
+      },
+      {
+        "sentence": "We have plenty of fruit, so help yourself.",
+        "keyword": "plenty",
+        "chinese": "我们有很多水果，所以请自助。"
+      },
+      {
+        "sentence": "I gained weight because I ate a lot of pizza.",
+        "keyword": "weight",
+        "chinese": "我体重增加了，因为我吃了很多比萨饼。"
       }
     ]
   }

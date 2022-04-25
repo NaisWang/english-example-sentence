@@ -8,7 +8,12 @@ export class Exhibit {
   }
 
   init() {
-    $.get('./exampleSentences.json', data => {
+    //$.get('./exampleSentences.json', data => {
+    //  console.log(data);
+    //  this.showExampleChinese(data);
+    //})
+
+    $.get('http://localhost:8082/sentence/', data => {
       console.log(data);
       this.showExampleChinese(data);
     })
@@ -48,7 +53,6 @@ export class Exhibit {
 
         let unitContent = document.createElement("div")
 
-
         data[sectionKey][unitKey].forEach((sentence, index) => {
           // crate sentence for unit
           let sentenceDiv = document.createElement("div")
@@ -60,6 +64,7 @@ export class Exhibit {
           `
 
           let englishInput = document.createElement("input");
+          englishInput.value = sentence['result']
           englishInput.style.display = "block"
           englishInput.style.width = "100%"
           englishInput.style.fontSize = "15px"
@@ -68,6 +73,18 @@ export class Exhibit {
           englishInput.addEventListener("keyup", function (event) {
             if (event.keyCode === 13) {
               if (this.value.replace(" ", '') === $(`#english-${sectionKey}-${unitKey}-${index}`).attr("title").replace(" ", '')) {
+                $.ajax({
+                  type: "POST",
+                  url: 'http://localhost:8082/sentence/',
+                  data: {
+                    id: sentence['id'],
+                    result: this.value
+                  },
+                  success: function () {
+                    console.log("ffff")
+                  },
+                  dataType: "jons"
+                })
                 this.style.borderColor = "green";
               } else {
                 this.style.borderColor = "red";
